@@ -1,6 +1,5 @@
-- 👋 Hi, I’m dengfeng, a student, a man, a father, a husband
-- 👀 STEM background in Robotics, Machine Learning, LLM
-- 🌱 Pursuing CS Master in Northeastern University
+- 👀 STEM background in Robotics, Machine Learning, Industry LLM Engineering
+- 🌱 Pursuing CS Master in Northeastern University, 26'🎓
 - 📫 Reach me dengfengjiang77@gmail.com, Let's find someting interesting!!!
 
 <!---
